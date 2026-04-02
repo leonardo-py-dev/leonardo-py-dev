@@ -33,6 +33,6 @@
 <div align="center">
 
 <!-- Troque "seu-usuario" pelo seu @ do GitHub -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardo-py-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?leonardo-py-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
 </div>
